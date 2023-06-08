@@ -1,0 +1,5 @@
+Hooks are very important in the react.
+we can say that hooks is used in new version of react i.e.V16.8.
+As we saw that we can use the useState to monitor the state of the components and declaration of these state is in class but
+Hooks are not initialize in the class it can use globly to chage or we can say that monitor the states of the components.
+#Hooks don't work inside classes.
